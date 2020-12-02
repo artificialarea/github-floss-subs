@@ -2,6 +2,15 @@
 
 The all-in-one starter kit for high-performance SaaS applications. With a few clicks, Next.js developers can clone, deploy and fully customize their own SaaS subscription application.
 
+## Associated Hackathon
+
+Starter kit setup for **[GitHub FLOSS and Code: Stripe hackathon](https://github.com/floss-and-code/stripe-hackathon)**
+
+Template src: https://github.com/thorwebdev/nextjs-subscription-payments
+
+**[Thor Schaeff Video walk-thru for setting up template with Next.js + Stripe + Supabase](https://youtu.be/NvTWPdu35FM?t=11806)** 
+
+
 ## Features
 
 - Secure user management and authentication with [Supabase](https://supabase.io/docs/guides/auth).
